@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Starbucks Website Landing Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <section>
+    <div class="circle"></div>
+    <header>
+      <a href="#"><img src="logo.png" class="logo"></a>
+      <div class="circle"></div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Menu</a></li>
+        <li><a href="#">What's New</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </header>
+    <div class="content">
+      <div class="textBox">
+        <h2>It's not just Coffee<br>It's <span>Starbucks</span></h2>
+        <p>
+          In addition to drinks and food, many stores carry Starbucks' official merchandise, such as mugs</p>
+        <p>umblers, scoops, and coffee presses.There are also several select "Starbucks Evenings" locations that offer
+        </p>
+        <p>beer, wine, and appetizers. Starbucks-brand coffee, ice cream, and bottled cold coffee drinks are sold
+          at grocery stores in the United States and other countries</p>
+
+
+        <a href="#">Learn More</a>
+        
+      </div>
+      <div class="imgBox">
+        <img src="img1.png" class="starbucks">
+      </div>
+    </div>
+    <ul class="sci">
+      <li><a href="#"><img src="facebook.png"></a></li>
+      <li><a href="#"><img src="twitter.png"></a></li>
+      <li><a href="#"><img src="instagram.png"></a></li>
+    </ul>
+  </section>
+</body>
+
+</html>
